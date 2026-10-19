@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Augusto
+# Lucas Alves
 
 ### Desenvolvedor Full Stack Júnior · Front-End · Aplicações Web
 
