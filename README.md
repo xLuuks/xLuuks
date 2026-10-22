@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Alves
+# Lucas (Luks) Alves
 
 ### Desenvolvedor Full Stack Júnior · Front-End · Aplicações Web
 
