@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img" aria-label="ALÔ LIVE">
+      <defs>
+       <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#171A2A"/><stop offset="1" stop-color="#0D1321"/></linearGradient>
+       <linearGradient id="line" x1="0" x2="1"><stop stop-color="#F5A487" stop-opacity=".9"/><stop offset="1" stop-color="#F5A487" stop-opacity=".03"/></linearGradient>
+      </defs>
+      <rect width="720" height="270" rx="22" fill="url(#bg)"/>
+      <rect x="1" y="1" width="718" height="268" rx="21" fill="none" stroke="#39415B" stroke-width="2"/>
+      <rect width="720" height="7" rx="2" fill="url(#line)"/>
+      <g stroke="#22293D" opacity=".8"><path d="M510 70 H720 M530 97 H720 M550 124 H720 M570 151 H720 M590 178 H720"/></g>
+      <text x="33" y="50" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#F5A487" letter-spacing="1">PYTHON · FLASK · PYQT5</text>
+      <text x="33" y="117" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="bold" fill="#F0F2FF">ALÔ LIVE</text>
+      <text x="33" y="163" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#B7C0D5">Comentários do YouTube e recados para o</text><text x="33" y="187" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#B7C0D5">apresentador.</text>
+      <rect x="31" y="212" width="195" height="40" rx="13" fill="#22283B" stroke="#48516A"/>
+      <text x="51" y="238" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#E6ECFF">VER PROJETO   &gt;</text>
+      <rect x="576" y="81" width="104" height="104" rx="20" fill="#F5A487" fill-opacity=".1" stroke="#F5A487" stroke-opacity=".55"/>
+      <text x="628" y="147" font-family="DejaVu Sans Mono,monospace" font-size="30" font-weight="bold" text-anchor="middle" fill="#F5A487">LIVE</text>
+    </svg>

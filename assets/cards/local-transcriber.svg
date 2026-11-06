@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img" aria-label="LOCAL TRANSCRIBER">
+      <defs>
+       <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#171A2A"/><stop offset="1" stop-color="#0D1321"/></linearGradient>
+       <linearGradient id="line" x1="0" x2="1"><stop stop-color="#AC93F7" stop-opacity=".9"/><stop offset="1" stop-color="#AC93F7" stop-opacity=".03"/></linearGradient>
+      </defs>
+      <rect width="720" height="270" rx="22" fill="url(#bg)"/>
+      <rect x="1" y="1" width="718" height="268" rx="21" fill="none" stroke="#39415B" stroke-width="2"/>
+      <rect width="720" height="7" rx="2" fill="url(#line)"/>
+      <g stroke="#22293D" opacity=".8"><path d="M510 70 H720 M530 97 H720 M550 124 H720 M570 151 H720 M590 178 H720"/></g>
+      <text x="33" y="50" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#AC93F7" letter-spacing="1">PYTHON · PYSIDE6</text>
+      <text x="33" y="117" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="bold" fill="#F0F2FF">LOCAL TRANSCRIBER</text>
+      <text x="33" y="163" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#B7C0D5">Transcrição e revisão de áudio/vídeo, tudo</text><text x="33" y="187" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#B7C0D5">local.</text>
+      <rect x="31" y="212" width="195" height="40" rx="13" fill="#22283B" stroke="#48516A"/>
+      <text x="51" y="238" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#E6ECFF">VER PROJETO   &gt;</text>
+      <rect x="576" y="81" width="104" height="104" rx="20" fill="#AC93F7" fill-opacity=".1" stroke="#AC93F7" stroke-opacity=".55"/>
+      <text x="628" y="147" font-family="DejaVu Sans Mono,monospace" font-size="30" font-weight="bold" text-anchor="middle" fill="#AC93F7">&gt;_</text>
+    </svg>

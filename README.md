@@ -1,51 +1,145 @@
+<!-- PERFIL xLuuks | Lucas (Luks) Alves | versão tecnológica ilustrada -->
 <div align="center">
 
-# Lucas (Luks) Alves
+  <img src="./assets/luks-terminal.gif" width="100%" alt="Terminal animado com apresentação profissional e comandos digitados lentamente, sem mascote ASCII." />
 
-### Desenvolvedor Full Stack Júnior · Front-End · Aplicações Web
-
-Desenvolvo soluções digitais que combinam **utilidade, interfaces cuidadosas e tecnologia**.
-
-*Junior Full Stack Developer | Web applications, useful tools and thoughtful interfaces.*
-
-![Em busca de oportunidade remota](https://img.shields.io/badge/Disponível%20para%20oportunidades-Remotas-6D4AFF?style=flat-square&labelColor=20202B)
-![Localização](https://img.shields.io/badge/Brasil-PE-2B2B36?style=flat-square&labelColor=20202B)
+  <a href="https://github.com/xLuuks?tab=repositories"><img alt="Explorar projetos" src="https://img.shields.io/badge/explorar-projetos-B29BFF?style=flat-square&amp;labelColor=161927&amp;logo=github&amp;logoColor=white" /></a>
+  <img alt="Em busca de novas oportunidades como desenvolvedor" src="https://img.shields.io/badge/em%20busca%20de-novas%20oportunidades-E6C57E?style=flat-square&amp;labelColor=161927" />
+  <img alt="Brasil" src="https://img.shields.io/badge/base-Brasil-7BD9DA?style=flat-square&amp;labelColor=161927" />
 
 </div>
 
 ---
 
-## Sobre mim
+### `~/hello-world` · prazer, Lucas! 👋
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória profissional em desenvolvimento de software, com foco em **Front-End, Full Stack e sistemas web**.
+<img src="./assets/ilustracoes/luks-apresentacao.png" align="right" width="170" alt="Ilustração de Lucas com óculos e moletom cinza, sorrindo. Arte de Elle Rio." />
 
-Gosto de transformar necessidades reais em aplicações práticas: de páginas institucionais e interfaces responsivas a mapas interativos, ferramentas locais e sistemas com autenticação e banco de dados.
+Sou o **Lucas (Luks) Alves**, desenvolvedor **Full Stack** e entusiasta de criar coisas úteis — especialmente aquelas que começam com um *“será que dá pra fazer?”* e terminam virando uma aplicação de verdade. 😄
 
-- **Atualmente:** aprimorando minhas bases em JavaScript, TypeScript, React e arquitetura de aplicações.
-- **O que valorizo:** interfaces bem resolvidas, código organizado, acessibilidade e experiência do usuário.
-- **Objetivo:** conquistar minha primeira oportunidade como desenvolvedor júnior em uma equipe remota.
+Gosto de juntar **programação, design e resolução de problemas** para construir ferramentas práticas, interfaces cuidadosas e experiências digitais que façam sentido para quem usa.
 
-## Tecnologias e ferramentas
+💻 **Foco:** Front-End, aplicações web e sistemas.  
+🌱 **Interesse:** Engenharia de Software, arquitetura, qualidade e boas práticas.  
+🎯 **Objetivo:** encontrar novas oportunidades como desenvolvedor.  
+🧱 **Projeto atual:** estou desenvolvendo meu próprio site pessoal.
+
+<br clear="right" />
+
+### `~/minha-trajetoria` · duas formações, muitas possibilidades
+
+<img src="./assets/ilustracoes/luks-cafe.png" align="left" width="160" alt="Ilustração de Lucas segurando uma caneca de café. Arte de Elle Rio." />
+
+Sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie** e em **Medicina Veterinária pela Universidade Federal Rural de Pernambuco (UFRPE)**.
+
+Pode parecer uma mudança de rota inesperada (e talvez seja mesmo ☕), mas gosto de explorar áreas diferentes. Hoje, além de desenvolver software, trabalho com **comunicação, design e audiovisual** — experiências que influenciam minha maneira de pensar em interfaces, fluxos e soluções para pessoas reais.
+
+O que me motiva é simples: aprender, experimentar e transformar necessidades do dia a dia em projetos funcionais.
+
+<br clear="left" />
+
+<table>
+  <tr>
+    <td width="75%" valign="middle">
+      <strong>🎓 Formação acadêmica</strong>
+      <p>💻 <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> — Universidade Presbiteriana Mackenzie.</p>
+      <p>🐾 <strong>Medicina Veterinária</strong> — UFRPE.</p>
+      <p>🧠 <strong>Próximo campo de interesse:</strong> Engenharia de Software, com atenção especial a arquitetura, testes, manutenção e evolução de sistemas.</p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/ilustracoes/luks-tcc.png" width="130" alt="Adesivo ilustrado de conquista acadêmica, feito por Elle Rio." />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>⌨️ <strong>Meu currículo em modo terminal</strong></summary>
+
+```text
+luks@dev:~$ cat ./about.yml
+
+name: Lucas (Luks) Alves
+background:
+  - Technology in Systems Analysis and Development @ Mackenzie
+  - Veterinary Medicine @ UFRPE
+interests:
+  - Software Engineering
+  - Web Apps & Creative Tools
+  - User Experience
+current_project: personal_website
+status: building, learning, improving
+opportunities: open_to_developer_roles
+
+luks@dev:~$ git commit -m "mais uma ideia virou projeto"
+[main] done. coffee++
+```
+
+</details>
+
+---
+
+### `~/stack` · tecnologias e ferramentas
 
 <div align="center">
 
-**Front-End**
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,astro,tailwind,py,firebase,supabase,git,github,vscode,figma&amp;theme=dark&amp;perline=8" alt="Ícones de HTML, CSS, JavaScript, TypeScript, React, Vite, Astro, Tailwind, Python, Firebase, Supabase, Git, GitHub, VS Code e Figma" />
 
-![HTML5](https://img.shields.io/badge/HTML5-252531?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-252531?style=for-the-badge&logo=css&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-252531?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-252531?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-252531?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-252531?style=for-the-badge&logo=astro&logoColor=BC52EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-252531?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+  <sub>Front-end · sistemas web · ferramentas locais · integração de serviços · design de interfaces</sub>
 
-**Back-End, dados e desenvolvimento**
+</div>
 
-![Python](https://img.shields.io/badge/Python-252531?style=for-the-badge&logo=python&logoColor=3776AB)
-![Firebase](https://img.shields.io/badge/Firebase-252531?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-252531?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Git](https://img.shields.io/badge/Git-252531?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-252531?style=for-the-badge&logo=github&logoColor=FFFFFF)
+---
+
+### `~/projetos` · feitos para resolver algo de verdade
+
+São projetos que nasceram do trabalho, de uma necessidade cotidiana ou da vontade de testar uma ideia. **Clique nos cards** para conhecer os detalhes, a interface e, quando público, o código.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/local-transcriber"><img src="./assets/cards/local-transcriber.svg" alt="Local Transcriber: transcrição local e revisão de áudio e vídeo" width="100%" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/splitcraft"><img src="./assets/cards/splitcraft.svg" alt="SplitCraft: divisão de imagens no navegador" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/mural-de-oracao"><img src="./assets/cards/mural-de-oracao.svg" alt="Mural de Oração: pedidos e intercessões" width="100%" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/local-scanner"><img src="./assets/cards/local-scanner.svg" alt="Local Scanner: edição e geração local de PDFs" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/ibn-academico-portfolio"><img src="./assets/cards/ibn-academico-portfolio.svg" alt="IBN Acadêmico: sistema institucional apresentado como portfólio" width="100%" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/xLuuks/alo-live"><img src="./assets/cards/alo-live.svg" alt="Alô Live: comentários e recados para transmissões" width="100%" /></a></td>
+</tr>
+</table>
+
+<sub>🔒 O IBN Acadêmico é apresentado como projeto de portfólio; o código-fonte institucional permanece privado.</sub>
+
+<div align="center">
+
+  **[Ver todos os meus repositórios](https://github.com/xLuuks?tab=repositories)**
+
+</div>
+
+---
+
+### `~/engenharia-de-software` · o que quero aprofundar
+
+<img src="./assets/ilustracoes/luks-pensando.png" align="right" width="150" alt="Ilustração de Lucas pensativo, com o dedo levantado. Arte de Elle Rio." />
+
+Meu interesse vai além de fazer uma interface funcionar. Quero entender **como planejar, estruturar, testar e evoluir software** de forma sustentável.
+
+Tenho interesse especial em **Engenharia de Software**: organização de código, arquitetura, testes, documentação e decisões técnicas que tornam um projeto melhor ao longo do tempo.
+
+No dia a dia, continuo aprendendo com projetos práticos — construindo, testando e melhorando uma versão de cada vez. **Atualmente, também estou desenvolvendo meu site pessoal**, que reúne meu trabalho e minhas experiências.
+
+<br clear="right" />
+
+---
+
+### `~/atividade` · os commits contam parte da história
+
+<div align="center">
+
+  <a href="https://github.com/xLuuks"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xLuuks&amp;bg_color=0D1117&amp;color=B29BFF&amp;line=9E85F8&amp;point=E6C57E&amp;area=true&amp;hide_border=true" alt="Gráfico dinâmico de atividades públicas do GitHub de xLuuks" width="100%" /></a>
+
+  <sub>Gráfico fornecido por serviço externo; o restante do perfil funciona independentemente dele.</sub>
 
 </div>
 
@@ -53,10 +147,18 @@ Gosto de transformar necessidades reais em aplicações práticas: de páginas i
 
 <div align="center">
 
-### Vamos construir algo útil?
+  <img src="./assets/ilustracoes/luks-animado.png" width="165" alt="Ilustração de Lucas empolgado, com as mãos levantadas. Arte de Elle Rio." />
 
-Estou aberto a **oportunidades remotas como desenvolvedor júnior**, especialmente em projetos de aplicações web, interfaces e sistemas.
+  <h3>Se uma ideia pode facilitar a vida de alguém, vale a pena tentar criar. ✨</h3>
 
-[**Explorar meus repositórios →**](https://github.com/xLuuks?tab=repositories)
+  <p>Estou em busca de <strong>novas oportunidades como desenvolvedor</strong> e gosto de conhecer pessoas que também curtem transformar ideias em projetos.</p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <sub>🎨 <strong>Personagem e ilustrações:</strong> <a href="https://www.instagram.com/elllerio/">Elle Rio (@elllerio)</a> — minha esposa e ilustradora. ❤️</sub>
 
 </div>
