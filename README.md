@@ -41,7 +41,7 @@ O que me motiva é simples: aprender, experimentar e transformar necessidades do
 <table>
   <tr>
     <td width="75%" valign="middle">
-      <strong>🎓 Formação acadêmica</strong>
+      <p></p><strong>🎓 Formação acadêmica</strong></p>
       <p>💻 <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> — Universidade Presbiteriana Mackenzie.</p>
       <p>🐾 <strong>Medicina Veterinária</strong> — UFRPE.</p>
       <p>🧠 <strong>Próximo campo de interesse:</strong> Engenharia de Software, com atenção especial a arquitetura, testes, manutenção e evolução de sistemas.</p>
@@ -51,30 +51,6 @@ O que me motiva é simples: aprender, experimentar e transformar necessidades do
     </td>
   </tr>
 </table>
-
-<details>
-<summary>⌨️ <strong>Meu currículo em modo terminal</strong></summary>
-
-```text
-luks@dev:~$ cat ./about.yml
-
-name: Lucas (Luks) Alves
-background:
-  - Technology in Systems Analysis and Development @ Mackenzie
-  - Veterinary Medicine @ UFRPE
-interests:
-  - Software Engineering
-  - Web Apps & Creative Tools
-  - User Experience
-current_project: personal_website
-status: building, learning, improving
-opportunities: open_to_developer_roles
-
-luks@dev:~$ git commit -m "mais uma ideia virou projeto"
-[main] done. coffee++
-```
-
-</details>
 
 ---
 
@@ -130,18 +106,6 @@ Tenho interesse especial em **Engenharia de Software**: organização de código
 No dia a dia, continuo aprendendo com projetos práticos — construindo, testando e melhorando uma versão de cada vez. **Atualmente, também estou desenvolvendo meu site pessoal**, que reúne meu trabalho e minhas experiências.
 
 <br clear="right" />
-
----
-
-### `~/atividade` · os commits contam parte da história
-
-<div align="center">
-
-  <a href="https://github.com/xLuuks"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xLuuks&amp;bg_color=0D1117&amp;color=B29BFF&amp;line=9E85F8&amp;point=E6C57E&amp;area=true&amp;hide_border=true" alt="Gráfico dinâmico de atividades públicas do GitHub de xLuuks" width="100%" /></a>
-
-  <sub>Gráfico fornecido por serviço externo; o restante do perfil funciona independentemente dele.</sub>
-
-</div>
 
 ---
 
