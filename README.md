@@ -15,7 +15,7 @@
 
 <img src="./assets/ilustracoes/luks-apresentacao.png" align="right" width="170" alt="Ilustração de Lucas com óculos e moletom cinza, sorrindo. Arte de Elle Rio." />
 
-Sou o **Lucas (Luks) Alves**, desenvolvedor **Full Stack** e entusiasta de criar coisas úteis — especialmente aquelas que começam com um *“será que dá pra fazer?”* e terminam virando uma aplicação de verdade. 😄
+Sou o **Lucas (Luks) Alves**, desenvolvedor **Full Stack** e entusiasta de criar coisas úteis, especialmente aquelas que começam com um *“será que dá pra fazer?”* e terminam virando uma aplicação de verdade.
 
 Gosto de juntar **programação, design e resolução de problemas** para construir ferramentas práticas, interfaces cuidadosas e experiências digitais que façam sentido para quem usa.
 
@@ -32,7 +32,7 @@ Gosto de juntar **programação, design e resolução de problemas** para constr
 
 Sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie** e em **Medicina Veterinária pela Universidade Federal Rural de Pernambuco (UFRPE)**.
 
-Pode parecer uma mudança de rota inesperada (e talvez seja mesmo ☕), mas gosto de explorar áreas diferentes. Hoje, além de desenvolver software, trabalho com **comunicação, design e audiovisual** — experiências que influenciam minha maneira de pensar em interfaces, fluxos e soluções para pessoas reais.
+Pode parecer uma mudança de rota inesperada (e talvez seja mesmo), mas gosto de explorar áreas diferentes. Hoje, além de desenvolver software, trabalho com **comunicação, design e audiovisual**, experiências que influenciam minha maneira de pensar em interfaces, fluxos e soluções para pessoas reais.
 
 O que me motiva é simples: aprender, experimentar e transformar necessidades do dia a dia em projetos funcionais.
 
