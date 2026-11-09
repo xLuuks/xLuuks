@@ -15,7 +15,7 @@
 
 ### <img src="./assets/titulos/hello-world.svg" width="192" height="34" alt="~/hello-world" />
 
-**Prazer, Lucas!** <img src="./assets/icons/coffee.svg" width="18" height="18" alt="" />
+**Olá, tudo bem?!** <img src="./assets/icons/coffee.svg" width="18" height="18" alt="" />
 
 <img src="./assets/ilustracoes/luks-apresentacao.png" align="right" width="150" alt="Ilustração de Lucas com óculos e moletom cinza, sorrindo. Arte de Elle Rio." />
 
