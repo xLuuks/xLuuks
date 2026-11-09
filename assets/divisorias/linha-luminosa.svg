@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" preserveAspectRatio="none" aria-hidden="true">
+  <style>
+    .pulse { animation: sweep 10s linear infinite; }
+    @keyframes sweep {
+      0%, 12% { transform: translateX(8px); opacity: 0; }
+      16%, 82% { opacity: 1; }
+      88%, 100% { transform: translateX(892px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { animation: none; opacity: 0; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="8" y1="12" x2="892" y2="12">
+      <stop stop-color="#B29BFF" stop-opacity=".5"/>
+      <stop offset=".5" stop-color="#B29BFF" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#7BD9DA" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="trail" gradientUnits="userSpaceOnUse" x1="-90" y1="12" x2="0" y2="12">
+      <stop stop-color="#B29BFF" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#B29BFF" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#7BD9DA"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect x="8" width="884" height="24"/></clipPath>
+  </defs>
+  <rect x="8" y="11" width="884" height="2" rx="1" fill="#667085"/>
+  <rect x="8" y="11.5" width="884" height="1" rx=".5" fill="url(#line)"/>
+  <path d="M8 12h.01" stroke="#B29BFF" stroke-width="3" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  <path d="M892 12h.01" stroke="#7BD9DA" stroke-width="3" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+  <g clip-path="url(#bounds)">
+    <g class="pulse">
+      <rect x="-90" y="11" width="90" height="2" rx="1" fill="url(#trail)"/>
+      <path d="M0 12h.01" stroke="#7BD9DA" stroke-width="9" stroke-opacity=".14" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+      <path d="M0 12h.01" stroke="#7BD9DA" stroke-width="3.5" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+    </g>
+  </g>
+</svg>

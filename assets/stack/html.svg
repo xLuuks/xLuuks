@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="88" viewBox="0 0 64 88" role="img" aria-labelledby="title">
+  <title id="title">HTML</title>
+  <!-- Icon: Skill Icons, copyright (c) 2022 tandpfun, MIT. See LICENSE.skill-icons. -->
+  <style>
+    .spin {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: turn 10s ease-in-out 0s infinite;
+    }
+    .shadow {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: shadow 10s ease-in-out 0s infinite;
+    }
+    @keyframes turn {
+      0%, 70% { transform: perspective(180px) rotateY(0deg) rotateZ(0deg); }
+      77.5% { transform: perspective(180px) rotateY(90deg) rotateZ(-4deg); }
+      85% { transform: perspective(180px) rotateY(180deg) rotateZ(0deg); }
+      92.5% { transform: perspective(180px) rotateY(270deg) rotateZ(4deg); }
+      100% { transform: perspective(180px) rotateY(360deg) rotateZ(0deg); }
+    }
+    @keyframes shadow {
+      0%, 70%, 85%, 100% { transform: scaleX(1); opacity: .3; }
+      77.5%, 92.5% { transform: scaleX(.3); opacity: .15; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .spin, .shadow { animation: none; transform: none; }
+    }
+  </style>
+  <ellipse class="shadow" cx="32" cy="64" rx="19" ry="3" fill="#8250DF" opacity=".3"/>
+  <g transform="translate(8 6)">
+    <g class="spin">
+      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+      <rect x=".5" y=".5" width="47" height="47" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity=".15"/>
+    </g>
+  </g>
+  <rect x="0" y="70" width="64" height="18" rx="6" fill="#161927"/>
+  <text x="32" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" fill="#A7C3FF">HTML</text>
+</svg>

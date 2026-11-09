@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="34" viewBox="0 0 324 34" role="img" aria-labelledby="title">
+  <title id="title">~/engenharia-de-software</title>
+  <style>
+    .reveal { animation: typing 12s steps(24, end) infinite; }
+    .cursor { animation: travel 12s steps(24, end) infinite, visibility 12s step-end infinite; }
+    .blink { animation: blink .7s step-end infinite; }
+    @keyframes typing { 0% { width: 0; } 18%, 100% { width: 288px; } }
+    @keyframes travel { 0% { transform: translateX(0); } 18%, 100% { transform: translateX(288px); } }
+    @keyframes visibility { 0% { opacity: 1; } 18%, 100% { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+      .cursor { animation: none; opacity: 0; }
+      .blink { animation: none; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="323" height="33" rx="7" fill="#161927" stroke="#39415B"/>
+  <defs>
+    <clipPath id="text-clip"><rect class="reveal" width="288" height="34"/></clipPath>
+  </defs>
+  <g transform="translate(12 0)">
+    <text x="0" y="23" fill="#B29BFF" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="600" textLength="288" lengthAdjust="spacingAndGlyphs" clip-path="url(#text-clip)">~/engenharia-de-software</text>
+    <g class="cursor"><rect class="blink" x="2" y="8" width="2" height="18" rx="1" fill="#7BD9DA"/></g>
+  </g>
+</svg>
